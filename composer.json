@@ -1,0 +1,13 @@
+{
+    "name": "helperinclude/view",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Drew Corkill",
+            "email": "dcorkill@diablomedia.com",
+        }
+    ],
+    "autoload": {
+        "psr-0": { "HelperInclude": "" }
+    }
+}
