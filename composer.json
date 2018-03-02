@@ -8,6 +8,6 @@
         }
     ],
     "autoload": {
-        "psr-0": { "HelperInclude": "" }
+        "psr-0": { "HelperInclude": "library/" }
     }
 }
